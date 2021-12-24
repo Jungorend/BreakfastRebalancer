@@ -1,4 +1,4 @@
-# Captain Crunch Deck Updater
+# Breakfast Rebalancer Deck Updater
 
 TTS with the Exceed Balanced Breakfast Module is an unofficial module for playing
 the Exceed Engine.
